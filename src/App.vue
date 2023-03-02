@@ -23,7 +23,21 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
+
+/* Variaveis globais */
+
+:root {
+  --roxo-1: #7f00b2;
+  --roxo-2: #ab32d8;
+
+  --ciano-1: #00cbcc;
+  --ciano-2: #00e5e5;
+  --ciano-3: #00ffff;
+
+  --branco: #fff;
+}
+
 * {
   font-family: Helvetica;
   margin: 0;
